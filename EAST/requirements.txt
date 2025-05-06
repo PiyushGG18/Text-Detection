@@ -1,0 +1,2 @@
+shapely==2.0.6
+opencv-python==4.10.0.84
